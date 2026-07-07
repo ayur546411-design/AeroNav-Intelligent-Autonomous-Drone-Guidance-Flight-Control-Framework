@@ -1,4 +1,4 @@
-# <p align="center">🚁 AeroNav</p>
+# <p align="center">AeroNav</p>
 
 <p align="center">
   <img src="assets/images/banner.png" alt="AeroNav Banner" width="100%">
